@@ -1,10 +1,10 @@
 # Superstore Market Data Analysis (Python EDA)
 
-This repository contains the code and documentation for an Exploratory Data Analysis (EDA) of a superstore market dataset using Python.
+This repository contains the code and documentation for an Exploratory Data Analysis (EDA) of a Supermarket Sales dataset using Python.
 
 ## Dataset
 
-Dataset link - [`Dataset link`](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
+Dataset link - [Dataset link](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
 The dataset used for this analysis contains information about sales transactions at a superstore. Here are the columns in the dataset:
 
@@ -28,7 +28,7 @@ The dataset used for this analysis contains information about sales transactions
 
 ## EDA File
 
-- [`SupermarketSales.ipynb`](SupermarketSales.ipynb): Jupyter Notebook containing the Python code for the exploratory data analysis.
+- [SupermarketSales.ipynb](SupermarketSales.ipynb): Jupyter Notebook containing the Python code for the exploratory data analysis.
 
 ## Usage
 
@@ -37,4 +37,4 @@ You can clone this repository to your local machine and run the Jupyter Notebook
 ```bash
 git clone https://github.com/HloHarshit/Supermarket-Sales-Python-EDA.git
 cd Supermarket-Sales-Python-EDA
-jupyter notebook SuperstoreSales.ipynb
+jupyter notebook SupermarketSales.ipynb
